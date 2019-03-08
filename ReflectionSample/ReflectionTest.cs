@@ -5,6 +5,7 @@ namespace ReflectionSample
 {
     class ReflectionTest
     {
+        /*
         static void Main(string[] args)
         {
             Type people = null;
@@ -35,6 +36,7 @@ namespace ReflectionSample
             minfo.Invoke(objName, null);
             Console.ReadLine();
         }
+        */
     }
 
 }
