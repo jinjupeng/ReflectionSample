@@ -1,6 +1,6 @@
 # C#之反射
 
-https://www.cnblogs.com/fangyz/p/5277344.html
+
 
 | 反射常用类与方法 | 说明                                                   |
 | ---------------- | ------------------------------------------------------ |
@@ -12,3 +12,6 @@ https://www.cnblogs.com/fangyz/p/5277344.html
 | PropertyInfo     | 保存属性信息                                           |
 | Module           | 这个类可以使你能访问多个程序集中的给定模块             |
 
+## 反射实现工厂模式
+
+http://www.cnblogs.com/tangge/p/6109820.html
